@@ -567,6 +567,18 @@
 			"implies": "Java",
 			"website": "wicket.apache.org"
 		},
+		"Application Insights": {
+			"cats": [
+				10
+			],
+			"env": [
+				"^appInsights$",
+				"^AI$"
+			],
+			"icon": "Application Insights.svg",
+			"script": "vo\\.msecnd\\.net\\/scripts\\/a\\/ai\\.0\\.js",
+			"website": "azure.microsoft.com/en-us/services/application-insights"
+		},
 		"AppNexus": {
 			"cats": [
 				36
